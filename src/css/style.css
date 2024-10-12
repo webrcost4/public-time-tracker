@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+}
+
+thead tr th {
+    background-color: #fff;
+    color: black;
+}
+
+tr:nth-child(odd) {
+    background-color: #4C8BF5;
+    color: #fff;
+}
